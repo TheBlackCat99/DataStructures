@@ -1,1 +1,1 @@
-# DataStructures
+# Data Structures Course from SoftUni Curriculum
